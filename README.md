@@ -1,0 +1,2 @@
+# Previsao_de_Inadimplencia_de_Emprestimos_Regressao_Logistica
+Predição de Inadimplência de Empréstimos com Regressão Logística
